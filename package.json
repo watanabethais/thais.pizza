@@ -16,8 +16,12 @@
     "clean": "gatsby clean"
   },
   "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^1.2.30",
+    "@fortawesome/free-solid-svg-icons": "^5.14.0",
+    "@fortawesome/react-fontawesome": "^0.1.11",
     "@lekoarts/gatsby-theme-minimal-blog": "^2.4.0",
     "gatsby": "^2.20.36",
+    "gatsby-plugin-fontawesome-css": "^1.0.0",
     "gatsby-plugin-google-analytics": "^2.1.4",
     "gatsby-plugin-manifest": "^2.2.3",
     "gatsby-plugin-netlify": "^2.1.3",
