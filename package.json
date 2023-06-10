@@ -22,7 +22,7 @@
     "@fortawesome/free-solid-svg-icons": "^5.14.0",
     "@fortawesome/react-fontawesome": "^0.1.11",
     "@lekoarts/gatsby-theme-minimal-blog": "^2.4.0",
-    "gatsby": "^2.24.23",
+    "gatsby": "^4.25.7",
     "gatsby-plugin-fontawesome-css": "^1.0.0",
     "gatsby-plugin-google-analytics": "^2.3.13",
     "gatsby-plugin-i18n": "^1.0.1",
